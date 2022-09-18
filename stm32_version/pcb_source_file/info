@@ -4,7 +4,7 @@
   "name": "stm32_1",
   "content": "第一代stm32pcb",
   "created_at": "2022-08-31 20:47:34",
-  "updated_at": "2022-09-18 23:47:30",
+  "updated_at": "2022-09-19 00:49:12",
   "stick": "",
   "documents": [
     {
@@ -518,11 +518,11 @@
           }
         ]
       ],
-      "updateTime": 1663501044,
+      "updateTime": 1663519752,
       "createTime": 1661950054,
       "histories": [],
       "created_at": "2022-08-31 20:47:34",
-      "updated_at": "2022-09-18 19:37:24"
+      "updated_at": "2022-09-19 00:49:12"
     },
     {
       "uuid": "5feed97d241ce125f5f6115cf56e435f",
@@ -556,11 +556,11 @@
         "ffb632ffe6c74851a857e0ef4305de8b": 2
       },
       "BOM": [],
-      "updateTime": 1663516050,
+      "updateTime": 1663519749,
       "createTime": 1663501076,
       "histories": [],
       "created_at": "2022-09-18 19:37:56",
-      "updated_at": "2022-09-18 23:47:30"
+      "updated_at": "2022-09-19 00:49:09"
     }
   ],
   "sort": [
@@ -570,5 +570,5 @@
   "title": "stm32_1",
   "foldername": "stm32_1",
   "schfilename": "stm32_1.json",
-  "schfilemtime": 1663501044854
+  "schfilemtime": 1663519752678
 }
