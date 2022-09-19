@@ -4,7 +4,7 @@
   "name": "stm32_1",
   "content": "第一代stm32pcb",
   "created_at": "2022-08-31 20:47:34",
-  "updated_at": "2022-09-19 00:49:12",
+  "updated_at": "2022-09-19 12:29:05",
   "stick": "",
   "documents": [
     {
@@ -534,33 +534,33 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
-        "ce25118ef0b041b8a773e71ca28ae65d": 2,
-        "2ee8eb13a0124a108e622ce40c0c25a8": 20,
-        "60a676d313ae48718a81c380b73dfe4f": 2,
+        "b60f399a7a7e41848b2be1eb49c79141": 28,
+        "df7b9c1c92a741e3a4e90f224547567e": 2,
         "d7ea8178954e4a5cafb2afbdc9048aa5": 2,
+        "e7f085e4f71344109c090040716070ab": 1,
+        "b009d24572744c3f95bd86bd402ef047": 1,
+        "85479227c6fd485eba9b7c55937c67d9": 2,
+        "4a13c433861640209b7106f419770da9": 2,
+        "ffb632ffe6c74851a857e0ef4305de8b": 2,
+        "2ee8eb13a0124a108e622ce40c0c25a8": 20,
+        "bade90667a6e4731855e9a223387b8a6": 1,
+        "ce25118ef0b041b8a773e71ca28ae65d": 2,
+        "60a676d313ae48718a81c380b73dfe4f": 2,
         "7ba95dc0f0e64c8f84be713cb7c1d907": 1,
         "282f7786cb6144d097ae00194c3e3fb3": 2,
         "daacbe2eec304950b61eef2efe596556": 1,
-        "e7f085e4f71344109c090040716070ab": 1,
         "090b645653374cf992fd93fb559e27d2": 2,
-        "df7b9c1c92a741e3a4e90f224547567e": 2,
         "4799ae47897d474280a6e45a4d12ef3d": 1,
-        "bade90667a6e4731855e9a223387b8a6": 1,
-        "b60f399a7a7e41848b2be1eb49c79141": 28,
-        "85479227c6fd485eba9b7c55937c67d9": 2,
         "b6f1c43fda384fbd97e19019415bcdf6": 1,
         "b42d4e6dde404e2b857f879256cb57ba": 2,
-        "4a13c433861640209b7106f419770da9": 2,
-        "09952c2799c54b76904e264324ada8f3": 1,
-        "b009d24572744c3f95bd86bd402ef047": 1,
-        "ffb632ffe6c74851a857e0ef4305de8b": 2
+        "09952c2799c54b76904e264324ada8f3": 1
       },
       "BOM": [],
-      "updateTime": 1663519749,
+      "updateTime": 1663561745,
       "createTime": 1663501076,
       "histories": [],
       "created_at": "2022-09-18 19:37:56",
-      "updated_at": "2022-09-19 00:49:09"
+      "updated_at": "2022-09-19 12:29:05"
     }
   ],
   "sort": [
