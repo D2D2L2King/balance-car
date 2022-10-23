@@ -1,0 +1,304 @@
+{
+  "uuid": "73d008e268083592cbc92b82a9b15698",
+  "path": "Offline/stm32_2",
+  "name": "stm32_2",
+  "content": "stm32最小系统板",
+  "created_at": "2022-09-15 21:37:52",
+  "updated_at": "2022-09-21 17:29:34",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "fa6b4dba0c89942870bf36a2df4a61c0",
+      "title": "stm32f103c8t6",
+      "description": "最小系统板",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "bb009484ef804a24ac5d18c54b249586": 3,
+        "24eeb2ceca08480b92b847b6a310acda": 9,
+        "30a189763a2040a6afefbee84d96d7ec": 1,
+        "5c1036b53a4146e4841df4ed0a9de8f0": 1,
+        "7347be22b5856eba3ffccb74c7404572": 1,
+        "908ced202529416bac1203a9b300d842": 1,
+        "e545f26e87c74952857381bd0bff848e": 2,
+        "b82150387a2041b4afd55b90c79c5923": 2,
+        "ed9eb2faffb34286820a54a14e9e9e24": 3,
+        "5cbe824183374fac8e4c1ae848199ce3": 1,
+        "cfbef4cc70074db196790d15057d58e0": 1,
+        "dd54c98a41ab43d9b14a07d264e7c1e9": 2,
+        "ba1f207f2c0447edbd5beb657b435022": 1,
+        "7f9c6d4d878346f99916c580bc848141": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1u",
+          3,
+          "C0805",
+          "C1,C5,C12",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "20p",
+          2,
+          "C0805",
+          "C2,C3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "100u",
+          2,
+          "CASE-A_3216",
+          "C4,C13",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "100nf",
+          6,
+          "C0805",
+          "C6,C7,C8,C9,C10,C11",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "B2200S28PB120",
+          1,
+          "HDR-TH_28P-P2.54-V-F-R2-C14-S2.54-1",
+          "H1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C379815",
+            "BOM_Manufacturer": "Shenzhen Cankemeng",
+            "BOM_Manufacturer Part": "B2200S28PB120",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "7ba95dc0f0e64c8f84be713cb7c1d907",
+            "uuid": "cfbef4cc70074db196790d15057d58e0"
+          }
+        ],
+        [
+          "K2-3.6×6.1_SMD",
+          1,
+          "KEY-SMD_2P-L6.2-W3.6-LS8.0",
+          "KEY1",
+          {
+            "BOM_Supplier Part": "C118141",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "K2-1107ST-A4SW-06",
+            "puuid": "daacbe2eec304950b61eef2efe596556",
+            "uuid": "5c1036b53a4146e4841df4ed0a9de8f0"
+          }
+        ],
+        [
+          "LED-0805_R",
+          1,
+          "LED0805_RED",
+          "LED1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "BOM_Supplier Part": "C72044",
+            "BOM_Supplier": "LCSC",
+            "puuid": "090b645653374cf992fd93fb559e27d2",
+            "uuid": "5cbe824183374fac8e4c1ae848199ce3"
+          }
+        ],
+        [
+          "LED-0805_G",
+          1,
+          "LED0805_GREEN",
+          "LED2",
+          {
+            "BOM_Manufacturer": "国星光电",
+            "BOM_Manufacturer Part": "NCD0805G1",
+            "BOM_Supplier Part": "C84260",
+            "BOM_Supplier": "",
+            "puuid": "df7b9c1c92a741e3a4e90f224547567e",
+            "uuid": "ba1f207f2c0447edbd5beb657b435022"
+          }
+        ],
+        [
+          "LED-0805_B",
+          1,
+          "LED0805_BLUE",
+          "LED3",
+          {
+            "BOM_Manufacturer": "方舟 ARKLED",
+            "BOM_Manufacturer Part": "D-B080508B1-KS2",
+            "BOM_Supplier Part": "C108412",
+            "BOM_Supplier": "",
+            "puuid": "4799ae47897d474280a6e45a4d12ef3d",
+            "uuid": "7f9c6d4d878346f99916c580bc848141"
+          }
+        ],
+        [
+          "100k",
+          2,
+          "R0805",
+          "R1,R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          3,
+          "R0805",
+          "R3,R5,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "1k",
+          1,
+          "R0805",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "ed9eb2faffb34286820a54a14e9e9e24"
+          }
+        ],
+        [
+          "STM32F103C8T6",
+          1,
+          "LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "STMicroelectronics",
+            "BOM_Manufacturer Part": "STM32F103C8T6",
+            "BOM_Supplier Part": "C8734",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "4a13c433861640209b7106f419770da9",
+            "uuid": "7347be22b5856eba3ffccb74c7404572"
+          }
+        ],
+        [
+          "AMS1117-3.3V",
+          1,
+          "SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR",
+          "U2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2688239",
+            "BOM_Manufacturer": "WPMtek(维攀微)",
+            "BOM_Manufacturer Part": "AMS1117-3.3V",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "09952c2799c54b76904e264324ada8f3",
+            "uuid": "908ced202529416bac1203a9b300d842"
+          }
+        ],
+        [
+          "HDR-1X5_C9900004899",
+          2,
+          "CONN-TH_5P-P2.50_HDR-1X5",
+          "U3,U4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C9900004899",
+            "BOM_Manufacturer": "null",
+            "BOM_Manufacturer Part": "HDR-1X5",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "b42d4e6dde404e2b857f879256cb57ba",
+            "uuid": "dd54c98a41ab43d9b14a07d264e7c1e9"
+          }
+        ],
+        [
+          "8MHZ",
+          1,
+          "OSC-49OSC-YSX-1",
+          "X1",
+          {
+            "BOM_Supplier Part": "undefined",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "LCSC",
+            "BOM_Manufacturer Part": "X49SM12MSD2SC",
+            "puuid": "8bc833e028e04a1fb7506b9885560f01",
+            "uuid": "30a189763a2040a6afefbee84d96d7ec"
+          }
+        ]
+      ],
+      "updateTime": 1663385271,
+      "createTime": 1663249072,
+      "histories": [],
+      "created_at": "2022-09-15 21:37:52",
+      "updated_at": "2022-09-17 11:27:51"
+    },
+    {
+      "uuid": "09ecf4e55a1f5955b62545ff9ca91ec9",
+      "puuid": "73d008e268083592cbc92b82a9b15698",
+      "title": "PCB_stm32_2",
+      "filename": "PCB_stm32_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2ee8eb13a0124a108e622ce40c0c25a8": 11,
+        "ce25118ef0b041b8a773e71ca28ae65d": 2,
+        "7ba95dc0f0e64c8f84be713cb7c1d907": 1,
+        "daacbe2eec304950b61eef2efe596556": 1,
+        "090b645653374cf992fd93fb559e27d2": 1,
+        "df7b9c1c92a741e3a4e90f224547567e": 1,
+        "4799ae47897d474280a6e45a4d12ef3d": 1,
+        "b60f399a7a7e41848b2be1eb49c79141": 6,
+        "4a13c433861640209b7106f419770da9": 1,
+        "09952c2799c54b76904e264324ada8f3": 1,
+        "b42d4e6dde404e2b857f879256cb57ba": 2,
+        "8bc833e028e04a1fb7506b9885560f01": 1
+      },
+      "BOM": [],
+      "updateTime": 1663752574,
+      "createTime": 1663385399,
+      "histories": [],
+      "created_at": "2022-09-17 11:29:59",
+      "updated_at": "2022-09-21 17:29:34"
+    }
+  ],
+  "sort": [],
+  "title": "stm32_2",
+  "foldername": "stm32_2",
+  "schfilename": "stm32_2.json",
+  "schfilemtime": 1663385271201
+}
